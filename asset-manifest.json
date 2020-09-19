@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/bizbee-ui/static/css/main.33f153cf.chunk.css",
+    "main.js": "/bizbee-ui/static/js/main.e6b46bae.chunk.js",
+    "main.js.map": "/bizbee-ui/static/js/main.e6b46bae.chunk.js.map",
+    "runtime-main.js": "/bizbee-ui/static/js/runtime-main.a65802e0.js",
+    "runtime-main.js.map": "/bizbee-ui/static/js/runtime-main.a65802e0.js.map",
+    "static/css/2.7a6c1eb7.chunk.css": "/bizbee-ui/static/css/2.7a6c1eb7.chunk.css",
+    "static/js/2.90745aa0.chunk.js": "/bizbee-ui/static/js/2.90745aa0.chunk.js",
+    "static/js/2.90745aa0.chunk.js.map": "/bizbee-ui/static/js/2.90745aa0.chunk.js.map",
+    "index.html": "/bizbee-ui/index.html",
+    "precache-manifest.14ce415dc1ed568a7e07033276fe7ec0.js": "/bizbee-ui/precache-manifest.14ce415dc1ed568a7e07033276fe7ec0.js",
+    "service-worker.js": "/bizbee-ui/service-worker.js",
+    "static/css/2.7a6c1eb7.chunk.css.map": "/bizbee-ui/static/css/2.7a6c1eb7.chunk.css.map",
+    "static/css/main.33f153cf.chunk.css.map": "/bizbee-ui/static/css/main.33f153cf.chunk.css.map",
+    "static/js/2.90745aa0.chunk.js.LICENSE.txt": "/bizbee-ui/static/js/2.90745aa0.chunk.js.LICENSE.txt",
+    "static/media/bee.svg": "/bizbee-ui/static/media/bee.04702e97.svg",
+    "static/media/games.jpg": "/bizbee-ui/static/media/games.36f6146b.jpg",
+    "static/media/sneaker.jpg": "/bizbee-ui/static/media/sneaker.28ddc47c.jpg",
+    "static/media/sushi.jpg": "/bizbee-ui/static/media/sushi.06fcff26.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a65802e0.js",
+    "static/css/2.7a6c1eb7.chunk.css",
+    "static/js/2.90745aa0.chunk.js",
+    "static/css/main.33f153cf.chunk.css",
+    "static/js/main.e6b46bae.chunk.js"
+  ]
+}
