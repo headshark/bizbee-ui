@@ -1,26 +1,22 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { NavBar, Icon } from 'antd-mobile';
 
-function App() {
+const App = () => {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <NavBar
+        mode="light"
+        icon={<Icon type="left" />}
+        onLeftClick={() => console.log('onLeftClick')}
+        rightContent={[
+          <Icon key="0" type="search" style={{ marginRight: '16px' }} />,
+          <Icon key="1" type="ellipsis" />,
+        ]}
+      >
+        bizbee
+      </NavBar>
     </div>
   );
-}
+};
 
 export default App;
