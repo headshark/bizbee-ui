@@ -1,13 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { BrowserRouter } from 'react-router-dom';
 
-import App from './App';
+import AppRoutes from './AppRoutes';
 
+import './style/custom-antd.css';
 import './index.css';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <BrowserRouter>
+    <AppRoutes />
+  </BrowserRouter>,
   document.getElementById('root')
 );
